@@ -38,6 +38,14 @@ from .calibration import (
     calibrated_simulation_config,
     print_calibration_summary,
 )
+from .calibration_fakenewsnet import (
+    load_fakenewsnet_csv,
+    compare_fake_vs_real,
+    estimate_beta_from_cascade_size,
+    estimate_sigma_from_fake_vs_real,
+    print_fakenewsnet_comparison,
+    extract_seir_parameters_from_fakenewsnet,
+)
 from .experiments import (
     baseline,
     education_intervention,
