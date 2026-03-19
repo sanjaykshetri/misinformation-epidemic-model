@@ -12,7 +12,6 @@
 
 This project implements a **publication-ready SEIR model** for misinformation spread, empirically calibrated with real cascade data from the **FakeNewsNet dataset** (13,700+ articles).
 
-**Perfect for**: Johns Hopkins data science interviews, academic portfolios, peer-reviewed publication.
 
 ### Key Features
 
