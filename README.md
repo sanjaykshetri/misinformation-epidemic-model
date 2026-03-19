@@ -285,7 +285,7 @@ misinformation-epidemic-model/
 │   ├── baseline_vs_interventions.ipynb          # Original analysis
 │   ├── real_data_calibration.ipynb              # Snopes/Pew workflow
 │   ├── fakenewsnet_calibration.ipynb            # FakeNewsNet cascade analysis
-│   └── quick_start_academic.ipynb               # 5-min Johns Hopkins demo (NEW)
+│   └── quick_start_academic.ipynb               # 5-min academic demo (NEW)
 │
 ├── pyproject.toml                # Project config + dev dependencies
 ├── METHODOLOGY.md                # Mathematical foundations (400+ lines)
@@ -300,7 +300,7 @@ misinformation-epidemic-model/
 **Highlights:**
 - `src/calibration_fakenewsnet.py`: Production-grade cascade analysis (NEW)
 - `src/visualization.py`: Expanded with 7 academic plot types (ENHANCED)
-- `notebooks/quick_start_academic.ipynb`: Complete Johns Hopkins demo (NEW)
+- `notebooks/quick_start_academic.ipynb`: Complete academic demo (NEW)
 - `.github/workflows/tests.yml`: CI/CD, mypy strict, coverage reporting (NEW)
 - `pyproject.toml`: Professional packaging with dev dependencies (NEW)
 
